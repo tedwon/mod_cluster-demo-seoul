@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>/seoul</context-root>
+</jboss-web>
